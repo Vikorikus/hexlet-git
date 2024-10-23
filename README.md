@@ -1,3 +1,1 @@
-Hello, Hexlet!
-novie dannie
-TEBE PRIVET
+no code no pain
